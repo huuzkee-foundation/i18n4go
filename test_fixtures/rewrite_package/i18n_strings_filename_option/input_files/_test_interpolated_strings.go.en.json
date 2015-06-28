@@ -1,0 +1,22 @@
+[
+   {
+      "id": "Hello %s world!",
+      "translation": "Hello %s world!"
+   },
+   {
+      "id": "Bye %s world!\n",
+      "translation": "Bye %s world!\n"
+   },
+   {
+      "id": "Hello again:\t %s world!\n",
+      "translation": "Hello again:\t %s world!\n"
+   },
+   {
+      "id": "Hello %d(%s) world!, bye from %s",
+      "translation": "Hello %d(%s) world!, bye from %s"
+   },
+   {
+      "id": "Evil",
+      "translation": "Evil"
+   }
+]

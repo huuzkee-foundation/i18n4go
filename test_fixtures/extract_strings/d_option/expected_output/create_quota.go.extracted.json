@@ -1,0 +1,100 @@
+[
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "CF_NAME create-quota QUOTA [-m MEMORY] [-r ROUTES] [-s SERVICE_INSTANCES] [--allow-paid-service-plans]",
+      "offset": 547,
+      "line": 23,
+      "column": 16
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "m",
+      "offset": 1607,
+      "line": 54,
+      "column": 32
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "Total number of routes",
+      "offset": 790,
+      "line": 26,
+      "column": 33
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "allow-paid-service-plans",
+      "offset": 1980,
+      "line": 72,
+      "column": 19
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "Creating quota %s as %s...",
+      "offset": 1412,
+      "line": 46,
+      "column": 13
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "Invalid memory limit: %s\n%s",
+      "offset": 1730,
+      "line": 58,
+      "column": 18
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "create-quota",
+      "offset": 1209,
+      "line": 35,
+      "column": 33
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "Define a new resource quota",
+      "offset": 501,
+      "line": 22,
+      "column": 16
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "s",
+      "offset": 1953,
+      "line": 69,
+      "column": 37
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "Total number of service instances",
+      "offset": 849,
+      "line": 27,
+      "column": 33
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "Can provision instances of paid service plans",
+      "offset": 944,
+      "line": 28,
+      "column": 58
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "Quota Definition %s already exists",
+      "offset": 2212,
+      "line": 81,
+      "column": 15
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "Total amount of memory (e.g. 1024M, 1G, 10G)",
+      "offset": 709,
+      "line": 25,
+      "column": 36
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/create_quota.go",
+      "value": "r",
+      "offset": 1883,
+      "line": 65,
+      "column": 35
+   }
+]

@@ -1,0 +1,65 @@
+[
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/org/delete_org.go",
+      "value": "Delete an org",
+      "offset": 567,
+      "line": 23,
+      "column": 16
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/org/delete_org.go",
+      "value": "f",
+      "offset": 1151,
+      "line": 45,
+      "column": 13
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/org/delete_org.go",
+      "value": "delete-org",
+      "offset": 538,
+      "line": 22,
+      "column": 16
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/org/delete_org.go",
+      "value": "CF_NAME delete-org ORG [-f]",
+      "offset": 599,
+      "line": 24,
+      "column": 16
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/org/delete_org.go",
+      "value": "Force deletion without confirmation",
+      "offset": 685,
+      "line": 26,
+      "column": 35
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/org/delete_org.go",
+      "value": "Incorrect Usage",
+      "offset": 923,
+      "line": 33,
+      "column": 20
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/org/delete_org.go",
+      "value": "org",
+      "offset": 1201,
+      "line": 46,
+      "column": 44
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/org/delete_org.go",
+      "value": "Deleting org %s as %s...",
+      "offset": 1249,
+      "line": 51,
+      "column": 13
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/org/delete_org.go",
+      "value": "Org %s does not exist.",
+      "offset": 1515,
+      "line": 62,
+      "column": 15
+   }
+]

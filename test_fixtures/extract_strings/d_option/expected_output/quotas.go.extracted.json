@@ -1,0 +1,72 @@
+[
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/quotas.go",
+      "value": "quotas",
+      "offset": 480,
+      "line": 21,
+      "column": 16
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/quotas.go",
+      "value": "Getting quotas as %s...",
+      "offset": 871,
+      "line": 35,
+      "column": 13
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/quotas.go",
+      "value": "memory limit",
+      "offset": 1139,
+      "line": 46,
+      "column": 54
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/quotas.go",
+      "value": "routes",
+      "offset": 1155,
+      "line": 46,
+      "column": 70
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/quotas.go",
+      "value": "service instances",
+      "offset": 1165,
+      "line": 46,
+      "column": 80
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/quotas.go",
+      "value": "%d",
+      "offset": 1400,
+      "line": 53,
+      "column": 16
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/quotas.go",
+      "value": "List available usage quotas",
+      "offset": 505,
+      "line": 22,
+      "column": 16
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/quotas.go",
+      "value": "CF_NAME quotas",
+      "offset": 551,
+      "line": 23,
+      "column": 16
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/quotas.go",
+      "value": "name",
+      "offset": 1131,
+      "line": 46,
+      "column": 46
+   },
+   {
+      "filename": "../../test_fixtures/extract_strings/d_option/input_files/quota/quotas.go",
+      "value": "paid service plans",
+      "offset": 1186,
+      "line": 46,
+      "column": 101
+   }
+]
