@@ -3,6 +3,9 @@
 *.a
 *.so
 
+# Vim swap files
+*.swp
+
 # Folders
 _obj
 _test
@@ -21,4 +24,13 @@ _testmain.go
 
 *.exe
 *.test
-*.prof
+
+*.go.*.po
+
+!**/expected_output/**/*.go.*.json
+!**/expected_output/**/*.go.*.po
+
+tmp
+out
+
+.DS_Store
